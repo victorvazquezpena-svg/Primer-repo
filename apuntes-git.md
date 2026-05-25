@@ -6,3 +6,6 @@
 - git add: prepara archivos para el commit.
 - git commit: guarda una versión del proyecto.
 - git push: sube los cambios a GitHub.
+
+
+Hola que tal 
